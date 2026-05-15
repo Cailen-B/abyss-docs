@@ -24,7 +24,7 @@ Started in 2026 at age 17, "Abyss-Docs" documents the daily reality of self-dire
 ### Content Style
 All documentation emphasizes **systems thinking**: how electrons, materials, code, mechanics, and physics interact.
 
-Long-form (10–20 minute) video documentation of engineering and personal context is posted on my [YouTube channel](https://youtube.com/@Cailen_B) (linked in GitHub profile).
+Long-form (10–20 minute) video documentation of engineering and personal context is posted on my [YouTube channel](https://youtube.com/@Cailen_B).
 
 ### Current Focus
 Electromagnetic mass driver / coilgun prototypes as the foundational project. These early builds build core competence for future work on lunar mass drivers, robotic construction swarms, ISRU systems, and Mars surface development (Arcadia).
