@@ -1,6 +1,6 @@
 # abyss-docs: multiplanetary systems development
 
-This repository is my **public engineering log** — a transparent, first-principles record of every project, failure, lesson, and breakthrough on the long road toward building humanity's multiplanetary future.
+This repository is my **public engineering log**. a transparent, first-principles record of every project, failure, lesson, and breakthrough on the long road toward building humanity's multiplanetary future.
 
 Started in 2026 at age 17, "Abyss-Docs" documents the daily reality of self-directed learning and hardware development. It serves as both a personal engineering journal and a long-term proof of consistent mission drive.
 
